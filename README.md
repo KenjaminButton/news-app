@@ -28,13 +28,17 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
+    <!-- Grab the correct link here -->
     <a href="https://github.com/kenjaminbutton/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <!-- Change the following link -->
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
+    <!-- Change the following link -->
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
+    <!-- Change the following link -->
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
@@ -74,13 +78,13 @@
 
 <div align="center">
   <a href="./">
-    <img src="./README-images/img1.png" alt="Logo" width="100%" height="100%">
+    <img src="./README-images/img1.png" alt="News Page" width="100%" height="100%">
   </a>
   <a href="./">
-    <img src="./README-images/img2.png" alt="Logo" width="100%" height="100%">
+    <img src="./README-images/img2.png" alt="Archives Page" width="100%" height="100%">
   </a>
   <a href="./">
-    <img src="./README-images/img3.png" alt="Logo" width="100%" height="100%">
+    <img src="./README-images/img3.png" alt="Articles Page" width="100%" height="100%">
   </a>
 </div>
 
@@ -89,8 +93,8 @@ There are many great projects utilizing Next.js, but I wanted to create somethin
 
 #### Here's why this project stands out:
 
-`Focused Development`: Your time should be dedicated to building a fantastic application that not only serves your needs but also provides value to users.
-Efficiency in Processes: With features like a year filter and article archives, you can easily navigate and manage news content without redundant tasks.
+`Focused Development`: Dedicated to building a fantastic application that not only serves your needs but also provides value to users.
+Efficiency in Processes: With features like a year filter and article archives, we can easily navigate and manage news content without redundant tasks.
 
 `User Experience:` The addition of image modals enhances storytelling by allowing users to view images without cluttering the interface.
 
@@ -128,33 +132,26 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Grab an IDE (I use VS Code). You can download it by Googling `Microsoft VS Code`
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/kenjaminbutton/News-App.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+<!-- 3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
+   ``` -->
+3. Open the project in terminal and cd into the project root folder
+4. Run the app in terminal:
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -162,28 +159,29 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
+<!-- - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Add "components" document to easily copy & paste sections of the readme -->
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] Korean
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/kenjaminbutton/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,16 +214,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Kenneth P. Chang - [Portfolio Site](https://www.kenjaminbutton.com) - kennethpchang@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/kenjaminbutton/news-app](https://github.com/your_username/news-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -238,7 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
